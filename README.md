@@ -13,6 +13,7 @@ My solution may not the best, but it works! If you have any better solutions, pl
 ## Index
 
 - [Day 1: Linklist Add Up](1.ipynb)
+- [Day 23: Intersection of Linked Lists](23.ipynb)
 - [Day 24: Falling Dominoes](24.ipynb)
 - [Day 25: Remove Consecutive Nodes that Sum to 0](25.ipynb)
 - [Day 26: Remove k-th Last Element From Linked List](26.ipynb)
