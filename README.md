@@ -39,6 +39,7 @@ My solution may not the best, but it works! If you have any better solutions, pl
 <details>
   <summary>Week 5</summary>
   
-- [Day 29: Move Zeros](Week5/29.ipynb) 
+- [Day 29: Move Zeros](Week5/29.ipynb)
+- [Day 30: Find the k-th Largest Element in a List](Week5/30.ipynb)
     
 </details>
