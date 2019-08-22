@@ -20,7 +20,9 @@ My solution may not the best, but it works! If you have any better solutions, pl
 </details>
 <details>
   <summary>Week 3</summary>
-  
+
+- [Day 19: Find Cycles in a Graph](Week3/19.ipynb)
+- [Day 20: Word Search](Week3/20.ipynb)
 - [Day 21: Minimum Size Subarray Sum](Week3/21.ipynb) 
     
 </details>
@@ -41,5 +43,6 @@ My solution may not the best, but it works! If you have any better solutions, pl
   
 - [Day 29: Move Zeros](Week5/29.ipynb)
 - [Day 30: Find the k-th Largest Element in a List](Week5/30.ipynb)
+- [Day 31: Spiral Traversal of Grid](Week5/31.ipynb)
     
 </details>
