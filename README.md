@@ -21,6 +21,8 @@ My solution may not the best, but it works! If you have any better solutions, pl
 <details>
   <summary>Week 3</summary>
 
+- [Day 17: Create a Simple Calculator](Week3/17.ipynb)
+- [Day 18: Longest Sequence with Two Unique Numbers](Week3/18.ipynb)
 - [Day 19: Find Cycles in a Graph](Week3/19.ipynb)
 - [Day 20: Word Search](Week3/20.ipynb)
 - [Day 21: Minimum Size Subarray Sum](Week3/21.ipynb) 
