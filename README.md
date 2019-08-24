@@ -48,6 +48,7 @@ My solution may not the best, but it works! If you have any better solutions, pl
 - [Day 30: Find the k-th Largest Element in a List](Week5/30.ipynb)
 - [Day 31: Spiral Traversal of Grid](Week5/31.ipynb)
 - [Day 32: Largest Product of 3 Elements](Week5/32.ipynb)
+- [Day 33: Merge Overlapping Intervals](Week5/33.ipynb)
 
 </details>
 
