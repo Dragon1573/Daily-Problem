@@ -16,11 +16,14 @@ My solution may not the best, but it works! If you have any better solutions, pl
   <summary>Week 1</summary>
 
 - [Day 1: Linklist Add Up](Week1/1.ipynb)
+- [Day 2: Longest Substring Without Repeating Characters](Week1/2.ipynb)
+- [Day 3: Longest Palindromic Substring](Week1/3.ipynb)
 
 </details>
 <details>
   <summary>Week 3</summary>
 
+- [Day 15: Find Pythagorean Triplets](Week3/15.ipynb)
 - [Day 16: Edit Distance](Week3/16.ipynb)
 - [Day 17: Create a Simple Calculator](Week3/17.ipynb)
 - [Day 18: Longest Sequence with Two Unique Numbers](Week3/18.ipynb)
