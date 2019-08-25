@@ -20,6 +20,7 @@ My solution may not the best, but it works! If you have any better solutions, pl
 - [Day 3: Longest Palindromic Substring](Week1/3.ipynb)
 - [Day 4: Validate Balanced Parentheses](Week1/4.ipynb)
 - [Day 5: First and Last Indices of an Element in a Sorted Array](Week1/5.ipynb)
+- [Day 6: Reverse a Linked List](Week1/6.ipynb)
 
 </details>
 <details>
