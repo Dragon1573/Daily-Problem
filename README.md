@@ -21,6 +21,7 @@ My solution may not the best, but it works! If you have any better solutions, pl
 - [Day 4: Validate Balanced Parentheses](Week1/4.ipynb)
 - [Day 5: First and Last Indices of an Element in a Sorted Array](Week1/5.ipynb)
 - [Day 6: Reverse a Linked List](Week1/6.ipynb)
+- [Day 7: Sorting a list with 3 unique numbers](Week1/7.ipynb)
 
 </details>
 <details>
