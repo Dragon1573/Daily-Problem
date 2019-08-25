@@ -19,6 +19,7 @@ My solution may not the best, but it works! If you have any better solutions, pl
 - [Day 2: Longest Substring Without Repeating Characters](Week1/2.ipynb)
 - [Day 3: Longest Palindromic Substring](Week1/3.ipynb)
 - [Day 4: Validate Balanced Parentheses](Week1/4.ipynb)
+- [Day 5: First and Last Indices of an Element in a Sorted Array](Week1/5.ipynb)
 
 </details>
 <details>
