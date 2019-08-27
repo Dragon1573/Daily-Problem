@@ -25,6 +25,17 @@ My solution may not the best, but it works! If you have any better solutions, pl
 
 </details>
 <details>
+    <summary>Week 2</summary>
+    
+- [Day 8: Two-Sum](Week2/8.ipynb)
+- [Day 9: Find the non-duplicate number](Week2/9.ipynb)
+- [Day 10: Non-decreasing Array with Single Modification](Week2/10.ipynb)
+- [Day 11: Floor and Ceiling of a Binary Search Tree](Week2/11.ipynb)
+- [Day 12: Invert a Binary Tree](Week2/12.ipynb)
+- [Day 13: Maximum In A Stack](Week2/13.ipynb)
+    
+</details>
+<details>
   <summary>Week 3</summary>
 
 - [Day 15: Find Pythagorean Triplets](Week3/15.ipynb)
@@ -57,6 +68,7 @@ My solution may not the best, but it works! If you have any better solutions, pl
 - [Day 32: Largest Product of 3 Elements](Week5/32.ipynb)
 - [Day 33: Merge Overlapping Intervals](Week5/33.ipynb)
 - [Day 34: Maximum Profit From Stocks](Week5/34.ipynb)
+- [Day 35: Queue Using Two Stacks](Week5/35.ipynb)
 
 </details>
 
