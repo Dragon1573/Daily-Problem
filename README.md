@@ -33,6 +33,7 @@ My solution may not the best, but it works! If you have any better solutions, pl
 - [Day 11: Floor and Ceiling of a Binary Search Tree](Week2/11.ipynb)
 - [Day 12: Invert a Binary Tree](Week2/12.ipynb)
 - [Day 13: Maximum In A Stack](Week2/13.ipynb)
+- [Day 14: Number of Ways to Climb Stairs](Week2/13.ipynb)
     
 </details>
 <details>
@@ -70,6 +71,12 @@ My solution may not the best, but it works! If you have any better solutions, pl
 - [Day 34: Maximum Profit From Stocks](Week5/34.ipynb)
 - [Day 35: Queue Using Two Stacks](Week5/35.ipynb)
 
+</details>
+<details>
+    <summary>Week 6</summary>
+    
+- [Day 36: Contiguous Subarray with Maximum Sum](Week6/36.ipynb)
+    
 </details>
 
 ## About
