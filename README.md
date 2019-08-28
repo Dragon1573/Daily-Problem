@@ -76,6 +76,7 @@ My solution may not the best, but it works! If you have any better solutions, pl
     <summary>Week 6</summary>
     
 - [Day 36: Contiguous Subarray with Maximum Sum](Week6/36.ipynb)
+- [Day 37: Merge K Sorted Linked Lists](Week6/37.ipynb)
     
 </details>
 
