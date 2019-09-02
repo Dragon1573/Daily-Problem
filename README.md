@@ -26,7 +26,7 @@ My solution may not the best, but it works! If you have any better solutions, pl
 </details>
 <details>
     <summary>Week 2</summary>
-    
+
 - [Day 8: Two-Sum](Week2/8.ipynb)
 - [Day 9: Find the non-duplicate number](Week2/9.ipynb)
 - [Day 10: Non-decreasing Array with Single Modification](Week2/10.ipynb)
@@ -34,7 +34,7 @@ My solution may not the best, but it works! If you have any better solutions, pl
 - [Day 12: Invert a Binary Tree](Week2/12.ipynb)
 - [Day 13: Maximum In A Stack](Week2/13.ipynb)
 - [Day 14: Number of Ways to Climb Stairs](Week2/13.ipynb)
-    
+
 </details>
 <details>
   <summary>Week 3</summary>
@@ -74,14 +74,15 @@ My solution may not the best, but it works! If you have any better solutions, pl
 </details>
 <details>
     <summary>Week 6</summary>
-    
+
 - [Day 36: Contiguous Subarray with Maximum Sum](Week6/36.ipynb)
 - [Day 37: Merge K Sorted Linked Lists](Week6/37.ipynb)
 - [Day 38: Create a balanced binary search tree](Week6/38.ipynb)
 - [Day 39: Trapping Rainwater](Week6/39.ipynb)
 - [Day 40: Buddy Strings](Week6/40.ipynb)
 - [Day 41: Deepest Node in a Binary Tree](Week6/41.ipynb)
-    
+- [Day 42: Look and Say Sequence](Week6/42.ipynb)
+
 </details>
 
 ## About
