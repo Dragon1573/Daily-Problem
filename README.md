@@ -84,6 +84,12 @@ My solution may not the best, but it works! If you have any better solutions, pl
 - [Day 42: Look and Say Sequence](Week6/42.ipynb)
 
 </details>
+<details>
+    <summary>Week 7</summary>
+    
+- [Day 43: First Missing Positive Integer](Week7/43.ipynb)
+    
+</details>
 
 ## About
 
