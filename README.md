@@ -88,6 +88,7 @@ My solution may not the best, but it works! If you have any better solutions, pl
     <summary>Week 7</summary>
     
 - [Day 43: First Missing Positive Integer](Week7/43.ipynb)
+- [Day 44: Validate Binary Search Tree](Week7/44.ipynb)
     
 </details>
 
