@@ -86,10 +86,11 @@ My solution may not the best, but it works! If you have any better solutions, pl
 </details>
 <details>
     <summary>Week 7</summary>
-    
+
 - [Day 43: First Missing Positive Integer](Week7/43.ipynb)
 - [Day 44: Validate Binary Search Tree](Week7/44.ipynb)
-    
+- [Day 45: Get all Values at a Certain Height in a Binary Tree](Week7/45.ipynb)
+
 </details>
 
 ## About
