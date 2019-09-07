@@ -90,6 +90,8 @@ My solution may not the best, but it works! If you have any better solutions, pl
 - [Day 43: First Missing Positive Integer](Week7/43.ipynb)
 - [Day 44: Validate Binary Search Tree](Week7/44.ipynb)
 - [Day 45: Get all Values at a Certain Height in a Binary Tree](Week7/45.ipynb)
+- [Day 46: Longest Substring With K Distinct Characters](Week7/46.ipynb)
+- [Day 47: Count Number of Unival Subtrees](Week7/47.ipynb)
 
 </details>
 
