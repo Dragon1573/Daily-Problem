@@ -92,6 +92,7 @@ My solution may not the best, but it works! If you have any better solutions, pl
 - [Day 45: Get all Values at a Certain Height in a Binary Tree](Week7/45.ipynb)
 - [Day 46: Longest Substring With K Distinct Characters](Week7/46.ipynb)
 - [Day 47: Count Number of Unival Subtrees](Week7/47.ipynb)
+- [Day 48: Reconstrunct Binary Tree from Preorder and Inorder Traversals](Week7/48.ipynb)
 
 </details>
 
