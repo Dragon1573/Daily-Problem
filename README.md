@@ -101,6 +101,7 @@ My solution may not the best, but it works! If you have any better solutions, pl
 
 - [Day 50: Word Ordering in a Different Alphabetical Order](Week8/50.ipynb)
 - [Day 51: 3 Sum](Week8/51.ipynb)
+- [Day 53: Find the Number of Islands](Week8/53.ipynb)
 - [Day 54: Minimum Removals for Valid Parenthesis](Week8/54.ipynb)
 
 </details>
