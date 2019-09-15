@@ -103,6 +103,7 @@ My solution may not the best, but it works! If you have any better solutions, pl
 - [Day 51: 3 Sum](Week8/51.ipynb)
 - [Day 53: Find the Number of Islands](Week8/53.ipynb)
 - [Day 54: Minimum Removals for Valid Parenthesis](Week8/54.ipynb)
+- [Day 55: Group Words that are Anagrams](Week8/55.ipynb)
 
 </details>
 
