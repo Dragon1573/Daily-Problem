@@ -108,6 +108,12 @@ My solution may not the best, but it works! If you have any better solutions, pl
 - [Day 56: Running Median](Week8/56.ipynb)
 
 </details>
+<details>
+    <summary>Week 9</summary>
+
+- [Day 57: Room scheduling](Week9/57.ipynb)
+
+</details>
 
 ## About
 
