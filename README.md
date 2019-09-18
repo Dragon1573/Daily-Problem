@@ -8,7 +8,7 @@
 
 Most of the answer can be found on ***Google***. However, there's still someone have no ability to get access with *Google*. So I create this repository, sharing my solutions with others. The Markdown comments and source codes are mixed in ***JupyterLab*** format (\*.ipynb). *GitHub* supports this format online and display the same as in *JupyterLab*. If you want to run the file on your device locally, please install ***Anaconda with Python 3.7*** and load this repository with *JupyterLab* or ***Jupyter Notebook***.
 
-My solution may not the best, but it works! If you have any better solutions, please fork this repository and create a Pull Request on my repository. Thank you!
+My solution MAY NOT THE BEST, but IT WORKS! If you have any better solutions, please fork this repository and create a *Pull Request* on my repository. Thank you!
 
 ## Index
 
@@ -112,9 +112,19 @@ My solution may not the best, but it works! If you have any better solutions, pl
     <summary>Week 9</summary>
 
 - [Day 57: Room scheduling](Week9/57.ipynb)
+- [Day 58: Reverse Words in a String](Week9/58.ipynb)
 
 </details>
 
-## About
+## 关于 About
 
-[FAQ](https://mp.weixin.qq.com/s/KsNh1Jfq4mPj0fb5DSALDQ) | [Coding Languages](https://mp.weixin.qq.com/s/ksk35cKlvXZ6WNLsxOCHQA) | [Learning Methods](https://mp.weixin.qq.com/s/DG2BheIKIn-ec6cCdEyHRg)
+&emsp;&emsp;这个章节使用中英双语的原因，是因为题目原作者的原版文章就使用简体中文。~~再说了，我也懒得翻译。~~同时，在整个代码存储库中，一切仅包含简体中文的超链接将会使用中英双语或仅汉语的链接标签。所以请使用其他语言的用户自行准备自动翻译工具，敬请谅解！
+
+The reason why this section using both *Simpified Chinese* and *English* is that the original author [@mjd507](https://github.com/mjd507) of these questions used *Simplified Chinese* for the following hyperlinks. At the same time, in the whole *repository*, all hyperlinks with *Simplified Chinese* will use combined or *Simplified Chinese* only hyperlink labels. So please prepare auto translation application or extensions yourself. Thank you!
+
+[常见问题 FAQ] | [解题语言 Language] | [解题方法 Solving Methods] | [开源许可证 Open Source License]
+
+[常见问题 FAQ]: https://mp.weixin.qq.com/s/KsNh1Jfq4mPj0fb5DSALDQ
+[解题语言 Language]: https://mp.weixin.qq.com/s/ksk35cKlvXZ6WNLsxOCHQA
+[解题方法 Solving Methods]: https://mp.weixin.qq.com/s/DG2BheIKIn-ec6cCdEyHRg
+[开源许可证 Open Source License]: https://choosealicense.com/licenses/mit/
