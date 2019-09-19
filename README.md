@@ -113,12 +113,13 @@ My solution MAY NOT THE BEST, but IT WORKS! If you have any better solutions, pl
 
 - [Day 57: Room scheduling](Week9/57.ipynb)
 - [Day 58: Reverse Words in a String](Week9/58.ipynb)
+- [Day 59: Merge List Of Number Into Ranges](Week9/59.ipynb)
 
 </details>
 
 ## 关于 About
 
-&emsp;&emsp;这个章节使用中英双语的原因，是因为题目原作者的原版文章就使用简体中文。~~再说了，我也懒得翻译。~~同时，在整个代码存储库中，一切仅包含简体中文的超链接将会使用中英双语或仅汉语的链接标签。所以请使用其他语言的用户自行准备自动翻译工具，敬请谅解！
+&emsp;&emsp;这个章节使用中英双语的原因，是因为题目原作者的原版文章就使用简体中文。同时，在整个代码存储库中，一切仅包含简体中文的超链接将会使用中英双语或仅汉语的链接标签。所以请使用其他语言的用户自行准备自动翻译工具，敬请谅解！
 
 The reason why this section using both *Simpified Chinese* and *English* is that the original author [@mjd507](https://github.com/mjd507) of these questions used *Simplified Chinese* for the following hyperlinks. At the same time, in the whole *repository*, all hyperlinks with *Simplified Chinese* will use combined or *Simplified Chinese* only hyperlink labels. So please prepare auto translation application or extensions yourself. Thank you!
 
