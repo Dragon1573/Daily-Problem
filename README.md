@@ -114,6 +114,7 @@ My solution MAY NOT THE BEST, but IT WORKS! If you have any better solutions, pl
 - [Day 57: Room scheduling](Week9/57.ipynb)
 - [Day 58: Reverse Words in a String](Week9/58.ipynb)
 - [Day 59: Merge List Of Number Into Ranges](Week9/59.ipynb)
+- [Day 60: Product of Array Except Self](Week9/60.ipynb)
 
 </details>
 
