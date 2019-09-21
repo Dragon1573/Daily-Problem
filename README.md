@@ -118,6 +118,10 @@ My solution MAY NOT THE BEST, but IT WORKS! If you have any better solutions, pl
 
 </details>
 
+## Revision
+
+- [Linked List](Revision/Linked_List.ipynb)
+
 ## 关于 About
 
 &emsp;&emsp;这个章节使用中英双语的原因，是因为题目原作者的原版文章就使用简体中文。同时，在整个代码存储库中，一切仅包含简体中文的超链接将会使用中英双语或仅汉语的链接标签。所以请使用其他语言的用户自行准备自动翻译工具，敬请谅解！
