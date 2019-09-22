@@ -115,6 +115,7 @@ My solution MAY NOT THE BEST, but IT WORKS! If you have any better solutions, pl
 - [Day 58: Reverse Words in a String](Week9/58.ipynb)
 - [Day 59: Merge List Of Number Into Ranges](Week9/59.ipynb)
 - [Day 60: Product of Array Except Self](Week9/60.ipynb)
+- [Day 61: Given two arrays, write a function to compute their intersection](Week9/61.ipynb)
 
 </details>
 
