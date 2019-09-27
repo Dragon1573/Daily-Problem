@@ -125,6 +125,7 @@ My solution MAY NOT THE BEST, but IT WORKS! If you have any better solutions, pl
 
 - [Day 64: Arithmetic Binary Tree](Week10/64.ipynb)
 - [Day 65: Tree Serialization](Week10/65.ipynb)
+- [Day 66: Distribute Bonuses](Week10/66.ipynb)
 
 </details>
 
