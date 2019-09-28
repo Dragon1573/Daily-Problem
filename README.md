@@ -132,6 +132,7 @@ My solution MAY NOT THE BEST, but IT WORKS! If you have any better solutions, pl
 ## Revision
 
 - [Linked List](Revision/Linked_List.ipynb)
+- [Binary Tree](Revision/Binary_Tree.ipynb)
 
 ## 关于 About
 
