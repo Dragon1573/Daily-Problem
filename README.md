@@ -133,6 +133,7 @@ My solution MAY NOT THE BEST, but IT WORKS! If you have any better solutions, pl
 
 - [Linked List](Revision/Linked_List.ipynb)
 - [Binary Tree](Revision/Binary_Tree.ipynb)
+- [Traversing 2 trees in parallel](Revision/Parallel_Tree.ipynb)
 
 ## 关于 About
 
