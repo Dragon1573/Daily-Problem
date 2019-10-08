@@ -128,6 +128,7 @@ My solution MAY NOT THE BEST, but IT WORKS! If you have any better solutions, pl
 - [Day 66: Distribute Bonuses](Week10/66.ipynb)
 - [Day 67: Min Range Needed to Sort](Week10/67.ipynb)
 - [Day 68: Reverse Integer](Week10/68.ipynb)
+- [Day 69: Min Stack](Week10/69.ipynb)
 
 </details>
 
