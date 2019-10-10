@@ -1,6 +1,6 @@
 # Daily Problem
 
-**The Original Author: [@mjd507](https://github.com/mjd507)**
+[![GitHub license](https://img.shields.io/github/license/Dragon1573/Daily-Problem?color=blue&style=for-the-badge)](https://github.com/Dragon1573/Daily-Problem/blob/master/LICENSE)&emsp;[![GitHub stars](https://img.shields.io/github/stars/Dragon1573/Daily-Problem?color=blue&style=for-the-badge)](https://github.com/Dragon1573/Daily-Problem/stargazers)&emsp;[![GitHub forks](https://img.shields.io/github/forks/Dragon1573/Daily-Problem?color=blue&style=for-the-badge)](https://github.com/Dragon1573/Daily-Problem/network)
 
 ## Description
 
@@ -159,9 +159,8 @@ My solution MAY NOT THE BEST, but IT WORKS! If you have any better solutions, pl
 
 The reason why this section using both *Simpified Chinese* and *English* is that the original author [@mjd507](https://github.com/mjd507) of these questions used *Simplified Chinese* for the following hyperlinks. At the same time, in the whole *repository*, all hyperlinks with *Simplified Chinese* will use combined or *Simplified Chinese* only hyperlink labels. So please prepare auto translation application or extensions yourself. Thank you!
 
-[常见问题 FAQ] | [解题语言 Language] | [解题方法 Solving Methods] | [开源许可证 Open Source License]
+[常见问题 FAQ] | [解题语言 Language] | [解题方法 Solving Methods]
 
 [常见问题 FAQ]: https://mp.weixin.qq.com/s/KsNh1Jfq4mPj0fb5DSALDQ
 [解题语言 Language]: https://mp.weixin.qq.com/s/ksk35cKlvXZ6WNLsxOCHQA
 [解题方法 Solving Methods]: https://mp.weixin.qq.com/s/DG2BheIKIn-ec6cCdEyHRg
-[开源许可证 Open Source License]: https://choosealicense.com/licenses/mit/
