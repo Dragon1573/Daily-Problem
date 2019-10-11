@@ -1,6 +1,13 @@
 # Daily Problem
 
-[![GitHub license](https://img.shields.io/github/license/Dragon1573/Daily-Problem?color=blue&style=for-the-badge)](https://github.com/Dragon1573/Daily-Problem/blob/master/LICENSE)&emsp;[![GitHub stars](https://img.shields.io/github/stars/Dragon1573/Daily-Problem?color=blue&style=for-the-badge)](https://github.com/Dragon1573/Daily-Problem/stargazers)&emsp;[![GitHub forks](https://img.shields.io/github/forks/Dragon1573/Daily-Problem?color=blue&style=for-the-badge)](https://github.com/Dragon1573/Daily-Problem/network)
+[![GitHub license][1]][2]&emsp;[![GitHub stars][3]][4]&emsp;[![GitHub forks][5]][6]
+
+[1]: https://img.shields.io/github/license/Dragon1573/Daily-Problem?color=blue&style=for-the-badge
+[2]: https://github.com/Dragon1573/Daily-Problem/blob/master/LICENSE
+[3]: https://img.shields.io/github/stars/Dragon1573/Daily-Problem?color=blue&style=for-the-badge
+[4]: https://github.com/Dragon1573/Daily-Problem/stargazers
+[5]: https://img.shields.io/github/forks/Dragon1573/Daily-Problem?color=blue&style=for-the-badge
+[6]: https://github.com/Dragon1573/Daily-Problem/network
 
 ## Description
 
