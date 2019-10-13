@@ -1,13 +1,23 @@
 # Daily Problem
 
-[![GitHub license][1]][2]&emsp;[![GitHub stars][3]][4]&emsp;[![GitHub forks][5]][6]
+[![GitHub license][1]][2]
+![GitHub last commit][7]
+[![GitHub watchers][8]][9]
+[![GitHub stars][3]][4]
+[![GitHub forks][5]][6]
+[![Jupyter NBViewer Supports][10]][11]
 
 [1]: https://img.shields.io/github/license/Dragon1573/Daily-Problem?color=blue&style=for-the-badge
 [2]: https://github.com/Dragon1573/Daily-Problem/blob/master/LICENSE
+[7]: https://img.shields.io/github/last-commit/Dragon1573/Daily-Problem?color=blue&style=for-the-badge
 [3]: https://img.shields.io/github/stars/Dragon1573/Daily-Problem?color=blue&style=for-the-badge
 [4]: https://github.com/Dragon1573/Daily-Problem/stargazers
 [5]: https://img.shields.io/github/forks/Dragon1573/Daily-Problem?color=blue&style=for-the-badge
 [6]: https://github.com/Dragon1573/Daily-Problem/network
+[8]: https://img.shields.io/github/watchers/Dragon1573/Daily-Problem?style=for-the-badge
+[9]: https://github.com/Dragon1573/Daily-Problem/watchers
+[10]: https://img.shields.io/static/v1?label=Jupyter%20NBViewer&message=Support&color=blue&style=for-the-badge&logo=JUPYTER
+[11]: https://nbviewer.jupyter.org/github/Dragon1573/Daily-Problem/tree/master/
 
 ## Description
 
@@ -171,6 +181,10 @@ My solution MAY NOT THE BEST, but IT WORKS! If you have any better solutions, pl
 - [Binary Search Tree](Revision/Binary_Search_Tree.ipynb)
 
 </details>
+
+## Interview
+
+- [Step 1: Resume Preparation](Interview/Process1.md)
 
 ## 关于 About
 
