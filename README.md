@@ -16,7 +16,7 @@
 [6]: https://github.com/Dragon1573/Daily-Problem/network
 [8]: https://img.shields.io/github/watchers/Dragon1573/Daily-Problem?style=for-the-badge
 [9]: https://github.com/Dragon1573/Daily-Problem/watchers
-[10]: https://img.shields.io/static/v1?label=Jupyter%20NBViewer&message=Support&color=blue&style=for-the-badge&logo=JUPYTER
+[10]: https://img.shields.io/static/v1?label=Jupyter&message=Support&color=blue&style=for-the-badge&logo=JUPYTER
 [11]: https://nbviewer.jupyter.org/github/Dragon1573/Daily-Problem/tree/master/
 
 ## Description
@@ -164,6 +164,7 @@ My solution MAY NOT THE BEST, but IT WORKS! If you have any better solutions, pl
 - [Day 73: Jump to the End](March/Week11/73.ipynb)
 - [Day 74: H-index](March/Week11/74.ipynb)
 - [Day 75: Symmetric k-ary Tree](March/Week11/75.ipynb)
+- [Day 76: Max and Min with Limited Comparisons](March/Week11/76.ipynb)
 
     </details>
 </details>
