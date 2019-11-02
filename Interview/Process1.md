@@ -2,11 +2,8 @@
 
 [@mjd507][1] ｜ [Wechat Channel（微信公众号）][2]
 
-![Logo][3]
-
 [1]: https://github.com/mjd507
 [2]: https://mp.weixin.qq.com/s/mmkFznQh8-eCMuAl77uTsQ
-[3]: https://mmbiz.qpic.cn/mmbiz_png/Yu0R50fg8IVr0OzNHUyOzZHYyE0Mez3ctiau6UGs8YV5ib2baVu8TtmsUbVtCt8h39EJvgWFLsU7tv0ZibpejEKicg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1
 
 Among my readers, there are relatively many college students or freshmen. Now, in October, this is the last small peak of corporate recruitment this year. I sincerely hope that every reader can enter a big company for internship or work, and take me to glory in the future `^_^`.
 
